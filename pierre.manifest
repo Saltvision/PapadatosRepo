@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 207194534
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01325997cb50b38432644ba8f6b4fd73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d09b92296f2caa0222796a41c2defd69
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 97e12a86195c62c8351c4e42f95c4526
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3dModel/Furniture/Coffee_tables/Pierre/Coffee_table_Pierre_95x130x60x32.fbx
+Dependencies: []

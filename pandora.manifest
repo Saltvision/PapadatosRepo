@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 804404998
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d378597b16c9b96d3bc369bc2ddfa83
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d09b92296f2caa0222796a41c2defd69
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 40e8f57f8d011d63aaa92d09873d0b32
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3dModel/Furniture/Dining chairs/Pandora/Chair-Pandora-with arm-50x54x80h.fbx
+- Assets/3dModel/Furniture/Dining chairs/Pandora/Chair-Pandora-with leather in arm-50x54x80h.fbx
+- Assets/3dModel/Furniture/Dining chairs/Pandora/Chair-Pandora-50x50x80h.fbx
+Dependencies: []

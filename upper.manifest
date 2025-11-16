@@ -1,0 +1,147 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 1896058092
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45c03f7f641994f0a242eb5fb51496d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d09b92296f2caa0222796a41c2defd69
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 07b4609e4bfabbdaa768b34c85d3168d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with 1 arm left-208.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Chaise longue left-260.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa-186.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal left-180.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms & chaise longue
+  left-170.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Pentagon daybed with 1 arm right-123x143.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal right-210.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with 1 arm right-228.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal right-180.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal right-200.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Pouf-80x103.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal right-240.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Pouf-80x100.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Corner left-103x103.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms & chaise longue
+  right-170.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms-220.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with 1 arm right-178.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal left-210.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal right-220.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms & chaise longue
+  right-230.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal left-230.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Chaise longue left-210.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Daybed with 1 arm left-163x118.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal right-260.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with 1 arm right-198.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with 1 arm left-228.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa-216.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa-196.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms & chaise longue
+  left-180.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms-200.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Pouf-60x120.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms-170.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Pentagon daybed with 1 arm left-123x143.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Daybed with 1 arm right-163x118.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Pouf-80x120.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal right-190.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with 1 arm left-188.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Chaise longue right-230.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms-190.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal right-250.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms & chaise longue
+  left-230.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms & chaise longue
+  left-200.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms-180.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal with arm left-258.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with 1 arm left-218.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa-206.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa-236.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms & chaise longue
+  left-190.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Chaise longue left-230.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms & chaise longue
+  right-200.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Chaise longue left-240.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Chaise longue right-240.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Chaise longue right-220.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with 1 arm left-178.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal left-190.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with 1 arm right-218.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal left-260.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa-256.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms & chaise longue
+  left-210.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal left-170.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Chaise longue left-220.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with 1 arm left-248.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Chaise longue right-210.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal with arm left-268.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal right-170.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms-210.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with 3 cushions-276.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with 1 arm left-238.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with 1 arm right-248.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms & chaise longue
+  right-160.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Pouf-60x103.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Corner right-103x103.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal left-240.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal with arm right-268.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Pouf-60x100.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with 3 cushions-266.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal with arm right-258.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with 1 arm right-208.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa-246.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal left-200.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Chaise longue right-260.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with 1 arm right-188.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Chaise longue left-250.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Daybed with 1 arm right-163x108.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms & chaise longue
+  right-180.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Chaise longue right-250.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms & chaise longue
+  right-190.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms & chaise longue
+  left-220.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa-226.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Daybed with 1 arm left-163x108.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Pouf-103x103.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with 1 arm left-198.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms & chaise longue
+  right-220.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal right-230.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal left-220.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms & chaise longue
+  left-160.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with 1 arm right-238.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-sofa with no arms & chaise longue
+  right-210.fbx
+- Assets/3dModel/Furniture/Sofas/Upper/Sofa-Upper-Terminal left-250.fbx
+Dependencies: []

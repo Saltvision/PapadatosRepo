@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 4138595762
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 432f72a46ab3fecea6c92c4b86e3736c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d09b92296f2caa0222796a41c2defd69
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ad288760c29de64a745d6672f08e4702
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3dModel/Furniture/Loveseats/Loveseat_Feur_left_124x106.fbx
+- Assets/3dModel/Furniture/Loveseats/Loveseat_Feur_right_124x106.fbx
+Dependencies: []

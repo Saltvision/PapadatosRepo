@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 2666860350
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00ed70ed044887de3a780481269b55de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d09b92296f2caa0222796a41c2defd69
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4c7ba2bf1c0275357217592d1563f734
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3dModel/Furniture/Coffee_tables/Horizon/Coffee_table_Horizon_62x38.fbx
+- Assets/3dModel/Furniture/Coffee_tables/Horizon/Coffee_table_Horizon_20x120.fbx
+- Assets/3dModel/Furniture/Coffee_tables/Horizon/Coffee_table_Horizon_110x110.fbx
+- Assets/3dModel/Furniture/Coffee_tables/Horizon/Coffee_table_Horizon_92x32.fbx
+Dependencies: []

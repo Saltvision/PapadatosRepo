@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 428221772
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 571f7bd800747018c79634a5d1c571de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d09b92296f2caa0222796a41c2defd69
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 10a08a73fed1540766d8bb1d8ba63aff
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3dModel/Furniture/Dinning tables/Couture Dining Table/Dining table-Couture-236x105x75h.fbx
+- Assets/3dModel/Furniture/Dinning tables/Couture Dining Table/Dining table-Couture-266x110x75h.fbx
+- Assets/3dModel/Furniture/Dinning tables/Couture Dining Table/Dining table-Couture-251x105x75h.fbx
+Dependencies: []

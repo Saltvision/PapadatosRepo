@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 1144868281
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5840b52d6efc2f21be53c089a6cf25ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d09b92296f2caa0222796a41c2defd69
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7c357bb8803a9f16bb612eca29dedec9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3dModel/Furniture/Sideboards/Couture/Sideboard_Couture_V_110x48x120.fbx
+- Assets/3dModel/Furniture/Sideboards/Couture/Sideboard_Couture_233x51x71.fbx
+- Assets/3dModel/Furniture/Sideboards/Couture/Sideboard_Couture_248x51x71.fbx
+- Assets/3dModel/Furniture/Sideboards/Couture/Sideboard_Couture_218x51x71.fbx
+Dependencies: []

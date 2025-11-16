@@ -1,0 +1,84 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 3105658778
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: 3dmodels_test
+      Dependencies: {}
+    Info_1:
+      Name: arenal
+      Dependencies: {}
+    Info_2:
+      Name: aria
+      Dependencies: {}
+    Info_3:
+      Name: moon
+      Dependencies: {}
+    Info_4:
+      Name: naos
+      Dependencies: {}
+    Info_5:
+      Name: upper
+      Dependencies: {}
+    Info_6:
+      Name: eliot
+      Dependencies: {}
+    Info_7:
+      Name: margi
+      Dependencies: {}
+    Info_8:
+      Name: petit fleur
+      Dependencies: {}
+    Info_9:
+      Name: etna
+      Dependencies: {}
+    Info_10:
+      Name: horizon
+      Dependencies: {}
+    Info_11:
+      Name: pierre
+      Dependencies: {}
+    Info_12:
+      Name: console
+      Dependencies: {}
+    Info_13:
+      Name: aleria
+      Dependencies: {}
+    Info_14:
+      Name: pandora
+      Dependencies: {}
+    Info_15:
+      Name: couture dining table
+      Dependencies: {}
+    Info_16:
+      Name: fiji dining table
+      Dependencies: {}
+    Info_17:
+      Name: loveseats
+      Dependencies: {}
+    Info_18:
+      Name: full_moon
+      Dependencies: {}
+    Info_19:
+      Name: henze
+      Dependencies: {}
+    Info_20:
+      Name: madison
+      Dependencies: {}
+    Info_21:
+      Name: nest
+      Dependencies: {}
+    Info_22:
+      Name: couturelowtable
+      Dependencies: {}
+    Info_23:
+      Name: deloslowtable
+      Dependencies: {}
+    Info_24:
+      Name: philip
+      Dependencies: {}
+    Info_25:
+      Name: rubik
+      Dependencies: {}

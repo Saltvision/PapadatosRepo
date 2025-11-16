@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 2934991921
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e00cc51856e9f1c5663cd9b2d6f6e0a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d09b92296f2caa0222796a41c2defd69
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 06b4c53cdf5ed71e34a89d26e56b9e49
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3dModel/Furniture/Sideboards/Rubik/Sideboard-Rubik-150x49x65h.fbx
+- Assets/3dModel/Furniture/Sideboards/Rubik/Sideboard-Rubik-200x49x65h.fbx
+- Assets/3dModel/Furniture/Sideboards/Rubik/Sideboard-Rubik-250x49x65h.fbx
+Dependencies: []
