@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 4078293190
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0abe7da5e780d2f927339d6d7af9917
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5997a4e72b2448c535211fea17d8de9a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e3183c7bb80f66c33006699a19fc87fe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02aaa319321d07e4f90cb8ac1fa862bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 205494505d856d04790afd02b7e1eab3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DynamicModelPrefabs/Armchair_Eliot.prefab
+Dependencies:
+- D:/Projects/Saltvision/Papadatos/Unity/Papadatos/Papadatos/Assets/AssetBundles/3dmodels_armchairs
