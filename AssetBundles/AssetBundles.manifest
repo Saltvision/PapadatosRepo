@@ -1,0 +1,451 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 3870160119
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: 3dmodels_armchairs
+      Dependencies: {}
+    Info_1:
+      Name: 3dmodels_coffee_tables
+      Dependencies: {}
+    Info_2:
+      Name: 3dmodels_consoles
+      Dependencies: {}
+    Info_3:
+      Name: 3dmodels_loveseats
+      Dependencies: {}
+    Info_4:
+      Name: 3dmodels_lowtables
+      Dependencies: {}
+    Info_5:
+      Name: 3dmodels_sideboards
+      Dependencies: {}
+    Info_6:
+      Name: 3dmodles_sofa_arenal
+      Dependencies: {}
+    Info_7:
+      Name: 3dmodels_sofa_aria
+      Dependencies: {}
+    Info_8:
+      Name: 3dmodels_sofa_moon
+      Dependencies: {}
+    Info_9:
+      Name: 3dmodels_sofa_naos
+      Dependencies: {}
+    Info_10:
+      Name: 3dmodels_sofa_upper
+      Dependencies: {}
+    Info_11:
+      Name: armchair_eliot.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_armchairs
+    Info_12:
+      Name: sofa-naos-angled sofa with 1 arm left-198.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_13:
+      Name: sofa-naos-angled sofa with 1 arm left-208.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_14:
+      Name: sofa-naos-angled sofa with 1 arm left-218.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_15:
+      Name: sofa-naos-angled sofa with 1 arm left-228.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_16:
+      Name: sofa-naos-angled sofa with 1 arm left-238.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_17:
+      Name: sofa-naos-angled sofa with 1 arm left-248.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_18:
+      Name: sofa-naos-angled sofa with 1 arm right-198.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_19:
+      Name: sofa-naos-angled sofa with 1 arm right-208.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_20:
+      Name: sofa-naos-angled sofa with 1 arm right-218.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_21:
+      Name: sofa-naos-angled sofa with 1 arm right-228.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_22:
+      Name: sofa-naos-angled sofa with 1 arm right-238.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_23:
+      Name: sofa-naos-angled sofa with 1 arm right-248.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_24:
+      Name: sofa-naos-angled sofa with no arms and platform 40cm left-210.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_25:
+      Name: sofa-naos-angled sofa with no arms and platform 40cm left-220.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_26:
+      Name: sofa-naos-angled sofa with no arms and platform 40cm left-230.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_27:
+      Name: sofa-naos-angled sofa with no arms and platform 40cm left-240.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_28:
+      Name: sofa-naos-angled sofa with no arms and platform 40cm left-250.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_29:
+      Name: sofa-naos-angled sofa with no arms and platform 40cm left-260.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_30:
+      Name: sofa-naos-angled sofa with no arms and platform 40cm right-210.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_31:
+      Name: sofa-naos-angled sofa with no arms and platform 40cm right-220.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_32:
+      Name: sofa-naos-angled sofa with no arms and platform 40cm right-230.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_33:
+      Name: sofa-naos-angled sofa with no arms and platform 40cm right-240.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_34:
+      Name: sofa-naos-angled sofa with no arms and platform 40cm right-250.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_35:
+      Name: sofa-naos-angled sofa with no arms and platform 40cm right-260.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_36:
+      Name: sofa-naos-chaise longue left-210.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_37:
+      Name: sofa-naos-chaise longue left-220.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_38:
+      Name: sofa-naos-chaise longue left-230.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_39:
+      Name: sofa-naos-chaise longue left-240.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_40:
+      Name: sofa-naos-chaise longue left-250.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_41:
+      Name: sofa-naos-chaise longue left-260.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_42:
+      Name: sofa-naos-chaise longue right-210.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_43:
+      Name: sofa-naos-chaise longue right-220.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_44:
+      Name: sofa-naos-chaise longue right-230.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_45:
+      Name: sofa-naos-chaise longue right-240.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_46:
+      Name: sofa-naos-chaise longue right-250.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_47:
+      Name: sofa-naos-chaise longue right-260.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_48:
+      Name: sofa-naos-daybed left-118.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_49:
+      Name: sofa-naos-daybed left-128.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_50:
+      Name: sofa-naos-daybed right-118.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_51:
+      Name: sofa-naos-daybed right-128.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_52:
+      Name: sofa-naos-pouf-110x110.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_53:
+      Name: sofa-naos-pouf-80x110.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_54:
+      Name: sofa-naos-sofa with 1 arm and platform 40cm left-258.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_55:
+      Name: sofa-naos-sofa with 1 arm and platform 40cm left-268.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_56:
+      Name: sofa-naos-sofa with 1 arm and platform 40cm right-258.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_57:
+      Name: sofa-naos-sofa with 1 arm and platform 40cm right-268.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_58:
+      Name: sofa-naos-sofa with 1 arm left-198.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_59:
+      Name: sofa-naos-sofa with 1 arm left-208.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_60:
+      Name: sofa-naos-sofa with 1 arm left-218.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_61:
+      Name: sofa-naos-sofa with 1 arm left-228.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_62:
+      Name: sofa-naos-sofa with 1 arm left-238.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_63:
+      Name: sofa-naos-sofa with 1 arm right-198.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_64:
+      Name: sofa-naos-sofa with 1 arm right-208.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_65:
+      Name: sofa-naos-sofa with 1 arm right-218.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_66:
+      Name: sofa-naos-sofa with 1 arm right-228.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_67:
+      Name: sofa-naos-sofa with 1 arm right-238.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_68:
+      Name: sofa-naos-sofa with no arms and chaise longue left-180.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_69:
+      Name: sofa-naos-sofa with no arms and chaise longue left-190.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_70:
+      Name: sofa-naos-sofa with no arms and chaise longue left-200.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_71:
+      Name: sofa-naos-sofa with no arms and chaise longue left-210.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_72:
+      Name: sofa-naos-sofa with no arms and chaise longue left-220.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_73:
+      Name: sofa-naos-sofa with no arms and chaise longue left-230.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_74:
+      Name: sofa-naos-sofa with no arms and chaise longue right-180.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_75:
+      Name: sofa-naos-sofa with no arms and chaise longue right-190.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_76:
+      Name: sofa-naos-sofa with no arms and chaise longue right-200.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_77:
+      Name: sofa-naos-sofa with no arms and chaise longue right-210.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_78:
+      Name: sofa-naos-sofa with no arms and chaise longue right-220.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_79:
+      Name: sofa-naos-sofa with no arms and chaise longue right-230.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_80:
+      Name: sofa-naos-sofa with no arms and platform left-210.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_81:
+      Name: sofa-naos-sofa with no arms and platform left-220.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_82:
+      Name: sofa-naos-sofa with no arms and platform left-230.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_83:
+      Name: sofa-naos-sofa with no arms and platform left-240.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_84:
+      Name: sofa-naos-sofa with no arms and platform right-210.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_85:
+      Name: sofa-naos-sofa with no arms and platform right-220.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_86:
+      Name: sofa-naos-sofa with no arms and platform right-230.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_87:
+      Name: sofa-naos-sofa with no arms and platform right-240.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_88:
+      Name: sofa-naos-sofa with no arms-170.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_89:
+      Name: sofa-naos-sofa with no arms-180.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_90:
+      Name: sofa-naos-sofa with no arms-190.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_91:
+      Name: sofa-naos-sofa with no arms-200.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_92:
+      Name: sofa-naos-sofa with no arms-210.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_93:
+      Name: sofa-naos-sofa with no arms-220.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_94:
+      Name: sofa-naos-sofa-186.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_95:
+      Name: sofa-naos-sofa-196.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_96:
+      Name: sofa-naos-sofa-206.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_97:
+      Name: sofa-naos-sofa-216.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_98:
+      Name: sofa-naos-sofa-226.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_99:
+      Name: sofa-naos-sofa-236.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_100:
+      Name: sofa-naos-sofa-246.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_101:
+      Name: sofa-naos-sofa-256.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_102:
+      Name: sofa-naos-terminal left-210.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_103:
+      Name: sofa-naos-terminal left-220.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_104:
+      Name: sofa-naos-terminal left-230.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_105:
+      Name: sofa-naos-terminal left-240.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_106:
+      Name: sofa-naos-terminal left-250.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_107:
+      Name: sofa-naos-terminal left-260.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_108:
+      Name: sofa-naos-terminal right-210.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_109:
+      Name: sofa-naos-terminal right-220.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_110:
+      Name: sofa-naos-terminal right-230.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_111:
+      Name: sofa-naos-terminal right-240.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_112:
+      Name: sofa-naos-terminal right-250.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos
+    Info_113:
+      Name: sofa-naos-terminal right-260.bundle
+      Dependencies:
+        Dependency_0: 3dmodels_sofa_naos

@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 1632048417
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: edea76314f884ac4601814b15c0e05c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: db316e01665e048756ccf32fd9de1003
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a889ac8cfba163bbb7b25494295d56eb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: abfe003187204f5458fcd8cdc8da49b6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02aaa319321d07e4f90cb8ac1fa862bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 205494505d856d04790afd02b7e1eab3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DynamicModelPrefabs/Sofa-Naos-Chaise longue right-250.prefab
+Dependencies:
+- D:/Projects/Saltvision/Papadatos/Unity/Papadatos/Papadatos/Assets/AssetBundles/3dmodels_sofa_naos

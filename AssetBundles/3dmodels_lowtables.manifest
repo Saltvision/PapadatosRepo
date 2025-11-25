@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 3197413813
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9fdefcf7ee8393fa6032be781eb3a126
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d09b92296f2caa0222796a41c2defd69
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2cd668ae53a44f7b69bc78d81b1c4be2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3dModel/Furniture/Low tables/Madison/Coffee_table_Madison_38x44.fbx
+- Assets/3dModel/Furniture/Low tables/Madison/Coffee_table_Madison_58x38.fbx
+- Assets/3dModel/Furniture/Low tables/Nest/Coffee_table_Nest_92x32.fbx
+- Assets/3dModel/Furniture/Low tables/Nest/Coffee_table_Nest_62x43.fbx
+- Assets/3dModel/Furniture/Low tables/Madison/Coffee_table_Madison_D88x32.fbx
+- Assets/3dModel/Furniture/Low tables/Madison/Coffee_table_Madison_118x32.fbx
+- Assets/3dModel/Furniture/Low tables/Nest/Coffee_table_Nest_62x38.fbx
+- Assets/3dModel/Furniture/Low tables/Nest/Coffee_table_Nest_77x38.fbx
+- Assets/3dModel/Furniture/Low tables/Madison/Coffee_table_Madison_88x38.fbx
+- Assets/3dModel/Furniture/Low tables/Henze/Coffee_table_Henze_110x32.fbx
+- Assets/3dModel/Furniture/Low tables/Nest/Coffee_table_Nest_42x43.fbx
+- Assets/3dModel/Furniture/Low tables/Nest/Coffee_table_Nest_77x32.fbx
+Dependencies: []

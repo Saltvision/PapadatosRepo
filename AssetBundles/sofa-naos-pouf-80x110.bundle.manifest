@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 3486287919
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39955461a3bed6c4e4e643c040552a41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: db316e01665e048756ccf32fd9de1003
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3c327e65d4e2f50cc85801cad13a0c67
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: abfe003187204f5458fcd8cdc8da49b6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02aaa319321d07e4f90cb8ac1fa862bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 205494505d856d04790afd02b7e1eab3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DynamicModelPrefabs/Sofa-Naos-Pouf-80x110.prefab
+Dependencies:
+- D:/Projects/Saltvision/Papadatos/Unity/Papadatos/Papadatos/Assets/AssetBundles/3dmodels_sofa_naos

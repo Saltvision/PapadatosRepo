@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 2340717981
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1037dc07d0e2647fa948945974068825
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3219c50854ff2a782d7e36576b5dbf5b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bbdbf05aa5f20640075d70e627bcac21
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_sofa_1arm_right_medium.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_sofa_1arm_left_small.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_sofa_noarms_chaiselongue_right_xlarge.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_sofa_noarms_chaiselongue_right_small.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_sofa_1arm_right_xlarge.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_sofa_1arm_right_large.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_sofa_noarms_chaiselongue_right_medium.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_sofa_noarms_chaiselongue_left_medium.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_sofa_noarms_chaiselongue_right_large.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_sofa_1arm_right_small.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_sofa_1arm_left_large.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_daybed_left_arm_150x120.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_sofa_1arm_left_xlarge.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_sofa_1arm_left_medium.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_sofa_noarms_chaiselongue_left_small.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_sofa_noarms_chaiselongue_left_xlarge.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_daybed_right_arm_150x120.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_corner_element_1size.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_middle_sofa_no arm_160x110x102.fbx
+- Assets/3dModel/Furniture/Sofas/Moon/Sofa_Moon_sofa_noarms_chaiselongue_left_large.fbx
+Dependencies: []

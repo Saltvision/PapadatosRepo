@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 2444532788
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ea288fcaba0202a57234eb1b5cd0ac0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fa5aaa757ab702b02a40a9d50babe146
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c827723bd433519a9b6bab182f4ee74f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3dModel/Furniture/Armchairs/Eliot/Armchair_Eliot.fbx
+- Assets/3dModel/Furniture/Armchairs/Petit Fleur/Armchair_Petit_feur.fbx
+- Assets/3dModel/Furniture/Armchairs/Petit Fleur/Armchair_Petit_feur_right.fbx
+- Assets/3dModel/Furniture/Armchairs/Philip/Armchair_Philip.fbx
+- Assets/3dModel/Furniture/Armchairs/Margi/Armchair_Margi.fbx
+- Assets/3dModel/Furniture/Armchairs/Margi/Armchair_Margi_Swivel.fbx
+Dependencies: []

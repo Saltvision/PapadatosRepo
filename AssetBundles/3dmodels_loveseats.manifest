@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 3009919765
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e5f223e20e03cb5f1f2256910571e84
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d09b92296f2caa0222796a41c2defd69
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9e7ac01bdd05ecb6dba7a35a7cdfbe66
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3dModel/Furniture/Loveseats/Loveseat_Feur_left_124x106.fbx
+- Assets/3dModel/Furniture/Loveseats/Loveseat_Feur_right_124x106.fbx
+- Assets/3dModel/Furniture/Loveseats/Full_moon/Loveseat_Fullmoon.fbx
+Dependencies: []

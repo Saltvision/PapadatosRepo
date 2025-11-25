@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 3085874601
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9febf8d2dd135876447418f5138f6c63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e737d766527b300082676c79c01a9c37
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1154742b85e900597f777ffefe7f1caf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: abfe003187204f5458fcd8cdc8da49b6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02aaa319321d07e4f90cb8ac1fa862bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 205494505d856d04790afd02b7e1eab3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DynamicModelPrefabs/Sofa-Naos-Angled sofa with no arms and platform 40cm
+  left-250.prefab
+Dependencies:
+- D:/Projects/Saltvision/Papadatos/Unity/Papadatos/Papadatos/Assets/AssetBundles/3dmodels_sofa_naos
